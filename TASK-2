@@ -1,0 +1,13 @@
+TASK-2
+Email is one of the most popular medium used in order to send our data or message across the internet.
+Phishing is a type of social engineering attack that involve sending fraudulent emails to individuals to revel their personal data. They often seem to be sent from a legitimate organisation.
+The main motive of attacker to gain confidential data such as credit card credentials, password, social security numbers etc.
+There are various types of phishing attacks such as Vishing, Smishing, Whaling etc.
+PROCEDURE:
+I have selected an email from CYINT technologies as a sample for my task.
+I have checked the emails header for spoofing (a deceptive practice where a person or program disguises their identity to appear as someone or something else, often to gain unauthorized access or trick victims into revealing sensitive information).
+I copied the header of the email from the original text and verified it through MXTOOLBOX tool for discrepancies.
+It had a suspicious link attached to it which could have asked my personal credentials.
+After checking the header I copied the ip address of the mail and searched it in blacklist of mxtoolbox. 
+I didn’t find any spelling or grammar mistakes in the mail.
+I confirmed it as a spam mail after analysing the header and verifying the ip address.
